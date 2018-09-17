@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <div class="home-contain" @click="$router.push('test1')">
+    <div class="home-contain" @click="$router.push('demo')">
       <div class="text-contain">
         <!-- <img src="../../assets/images/logo.png" alt=""> -->
         <div class="btn">登录</div>
